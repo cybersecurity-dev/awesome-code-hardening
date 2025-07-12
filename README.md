@@ -1,9 +1,13 @@
 # Awesome Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[Code hardening](https://www.guardsquare.com/code-hardening) is the process of making software code more difficult to understand, analyze, or tamper with, without affecting its intended functionality.
+
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+
 
 
 ### My Other Awesome Lists
