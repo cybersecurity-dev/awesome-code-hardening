@@ -1,13 +1,20 @@
 # Awesome Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Code hardening](https://www.guardsquare.com/code-hardening) is the process of making software code more difficult to understand, analyze, or tamper with, without affecting its intended functionality.
+[**Code Hardening**](https://www.guardsquare.com/code-hardening) is the process of making software code more difficult to understand, analyze, or tamper with, without affecting its intended functionality.
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-
+## Static (_or Passive_) Code Hardening Techniques
+* Code Obfuscation
+* Binary Hardening
+## Dynamic (_or Active_) Code Hardening Techniques
+* Anti-Tampering
+* Anti-Debugging
+* Anti-Emulation
+* Anti-Virtualization
 
 
 ### My Other Awesome Lists
