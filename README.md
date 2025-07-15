@@ -1,11 +1,11 @@
-# Awesome Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+# Awesome Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUoVE9Xq4020bvvIAJ8Xkmk&si=vUad-hY89hFHuKBk)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
     <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
 [**Code Hardening**](https://www.guardsquare.com/code-hardening) is the process of making software code more difficult to understand, analyze, or tamper with, without affecting its intended functionality.
