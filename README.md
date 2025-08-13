@@ -16,7 +16,7 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## Static (_or Passive_) Code Hardening Techniques
+## [Static](https://github.com/cybersecurity-dev/awesome-passive-code-hardening) (_or [Passive](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)_) Code Hardening Techniques
 * Code Obfuscation
 * Binary Hardening
 ## Dynamic (_or Active_) Code Hardening Techniques
