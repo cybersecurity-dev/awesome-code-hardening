@@ -30,6 +30,7 @@ You can access the Awesome Passive Code Hardening [here](https://github.com/cybe
 * Anti-Emulation
 * Anti-Virtualization
 
+You can access the Awesome Active Code Hardening [here](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
 
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
