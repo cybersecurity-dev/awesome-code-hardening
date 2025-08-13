@@ -12,6 +12,8 @@
 [**Code Hardening**](https://www.guardsquare.com/code-hardening) is the process of making software code more difficult to understand, analyze, or tamper with, without affecting its intended functionality.
 
 ## 📖 Contents
+- [Static Code Hardening Techniques](#static-or-passive-code-hardening-techniques)
+- [Dynamic Code Hardening Techniques](#dynamic-or-active-code-hardening-techniques)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
