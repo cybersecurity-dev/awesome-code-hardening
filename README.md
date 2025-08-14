@@ -24,7 +24,7 @@
 
 You can access the Awesome Passive Code Hardening [here](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
 
-## Dynamic (_or Active_) Code Hardening Techniques
+## [Dynamic](https://github.com/cybersecurity-dev/awesome-active-code-hardening) (_or [Active](https://github.com/cybersecurity-dev/awesome-active-code-hardening)_) Code Hardening Techniques
 * Anti-Tampering
 * Anti-Debugging
 * Anti-Emulation
