@@ -1,4 +1,8 @@
-# Awesome Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<div align="center">
+
+# **`Awesome`** Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUoVE9Xq4020bvvIAJ8Xkmk&si=vUad-hY89hFHuKBk)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
