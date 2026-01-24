@@ -26,6 +26,8 @@
 
 ## [Static](https://github.com/cybersecurity-dev/awesome-passive-code-hardening) (_or [Passive](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)_) Code Hardening Techniques
 * Code Obfuscation
+    * Code Encoding
+    * Code Encryption
 * Binary Hardening
 
 You can access the Awesome Passive Code Hardening [here](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
