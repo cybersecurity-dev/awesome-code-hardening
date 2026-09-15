@@ -1,6 +1,65 @@
 <div align="center">
 
-# **`Awesome`** Code Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+```mermaid
+mindmap
+  root((Code Hardening))
+
+    Static / Passive
+      Secure Coding
+        Input Validation
+        Output Encoding
+        Memory Safety
+        Authentication Controls
+
+      Compiler Protections
+        Stack Canaries
+        Fortify Source
+        RELRO
+        PIE
+
+      Binary Hardening
+        ASLR
+        DEP NX
+        CFI
+        Code Signing
+
+      Dependency Security
+        SCA
+        Vulnerability Scanning
+        Patch Management
+
+      Configuration Security
+        Least Privilege
+        Secure Defaults
+        Cryptographic Hardening
+        Secrets Management
+
+    Dynamic / Active
+      Runtime Protection
+        RASP
+        Runtime Enforcement
+        Memory Monitoring
+        Behavioral Analysis
+
+      Integrity Protection
+        Runtime Integrity Checks
+        Self Validation
+        Tamper Detection
+
+      Anti Analysis
+        Anti Debugging
+        Anti Hooking
+        Anti Instrumentation
+        VM Detection
+
+      Monitoring
+        Logging
+        Threat Detection
+        Alerting
+        Automated Response
+```
+
+# **`Awesome`** [Code](https://d3fend.mitre.org/technique/d3f:ApplicationHardening/) Hardening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUoVE9Xq4020bvvIAJ8Xkmk&si=vUad-hY89hFHuKBk)
@@ -9,7 +68,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -44,12 +103,12 @@ You can access the Awesome Active Code Hardening [here](https://github.com/cyber
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-code-hardening/graphs/contributors)!
 
-[🔼 Back to top](#awesome-code-hardening-)
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
+[🔼 Back to top](#awesome-code-hardening-)
